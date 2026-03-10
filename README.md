@@ -194,3 +194,12 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">Made with ❤️ for network security learning</p>
+
+---
+
+## 🏷️ Keywords & Topics
+
+`network-analyzer` `kali-linux` `dns-sniffer` `http-inspector` `packet-capture`
+`scapy` `python` `cybersecurity` `ethical-hacking` `network-monitoring`
+`traffic-analysis` `web-dashboard` `flask` `penetration-testing` `network-security`
+`client-ip-tracker` `dns-query` `http-request` `python3` `security-tools`
